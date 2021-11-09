@@ -1,0 +1,44 @@
+git
+====> version controle system 
+saving changes that have done to the multiple versions of the project
+  
+====>historial backups 
+
+
+if u have a project and you want to do sm upgrades into it but u still want 
+to have the original project u can press ctrel+shift+s u'll have two different 
+copies of the project 
+
+====> team based Development 
+
+it allows to all the team to work on the same project in the same time
+avioding all the changes that everyone's done to the project, after
+everyone's finished they can mixed it up to main copy of the project 
+
+
+====> comand line 
+u can deal with git from the command line  
+
+====> trunk based development 
+
+now imagine with me a tree as the main code of the program, now we can consider
+every change have been made any developer as a branch in the tree, we can cut 
+that branch without effecting the tree, wich means that we can modify the code 
+or the project as a personal layer without change anything in the main layer 
+of it 
+now what's "GITHUB" 
+
+====> github is using git but in the clouding storage not on in your device 
+contrarily of the concept of "git" u can use it on your local server 
+
+now on github u can requst to merge u your own updated copy of the project to the 
+main copy of the project so peaple can use it 
+
+====> fork 
+if your project is available to public everyone can make a copy of it and develop in it far away from 
+the original copy  
+====> projects test 
+if u've been uploaded your project on github everyone can test the project and write down the problem they've 
+been facing, so u or ur whole team can solve it ;)
+
+  
